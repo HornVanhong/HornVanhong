@@ -1,7 +1,9 @@
 <div align="center">
 
-<!-- ═══════════════════ MATRIX CYBER GLOW HEADER ═══════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020b05,40:064e3b,75:059669,100:00ff66&height=220&section=header&text=HORN%20VANHONG&fontSize=50&fontColor=00ff66&animation=fadeIn&fontAlignY=38&desc=%F0%9F%9B%A1%EF%B8%8F%20FULL-STACK%20ENGINEER%20%E2%80%A2%20CYBERSECURITY%20ENTHUSIAST&descSize=16&descColor=86efac&descAlignY=62" width="100%" alt="Horn Vanhong Cyber Header" />
+<!-- ═══════════════════ DEEP BLACK CYBER TERMINAL BANNER ═══════════════════ -->
+<img src="assets/header.svg" width="100%" alt="Horn Vanhong Cyber Terminal" />
+
+<br />
 
 <!-- ═══════════════════ ANIMATED MATRIX TERMINAL ═══════════════════ -->
 <a href="https://vanhong-dev.vercel.app">
@@ -13,16 +15,16 @@
 <!-- ═══════════════════ MATRIX ACCESS BADGES ═══════════════════ -->
 <p align="center">
   <a href="https://vanhong-dev.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/LIVE_HUD-vanhong--dev.vercel.app-00ff66?style=for-the-badge&logo=vercel&logoColor=00ff66&labelColor=020b05" alt="Live Portfolio" />
+    <img src="https://img.shields.io/badge/LIVE_HUD-vanhong--dev.vercel.app-00ff66?style=for-the-badge&logo=vercel&logoColor=00ff66&labelColor=000000" alt="Live Portfolio" />
   </a>
   <a href="https://linkedin.com/in/horn-vanhong-45366324a" target="_blank">
-    <img src="https://img.shields.io/badge/SECURE_NET-LinkedIn-00ff66?style=for-the-badge&logo=linkedin&logoColor=00ff66&labelColor=020b05" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/SECURE_NET-LinkedIn-00ff66?style=for-the-badge&logo=linkedin&logoColor=00ff66&labelColor=000000" alt="LinkedIn" />
   </a>
   <a href="https://t.me/vanhongVH" target="_blank">
-    <img src="https://img.shields.io/badge/ENCRYPTED_COMMS-Telegram-00ff66?style=for-the-badge&logo=telegram&logoColor=00ff66&labelColor=020b05" alt="Telegram" />
+    <img src="https://img.shields.io/badge/ENCRYPTED_COMMS-Telegram-00ff66?style=for-the-badge&logo=telegram&logoColor=00ff66&labelColor=000000" alt="Telegram" />
   </a>
   <a href="mailto:vanhonghorn37@gmail.com">
-    <img src="https://img.shields.io/badge/DIRECT_TRANSMISSION-Email-00ff66?style=for-the-badge&logo=gmail&logoColor=00ff66&labelColor=020b05" alt="Email" />
+    <img src="https://img.shields.io/badge/DIRECT_TRANSMISSION-Email-00ff66?style=for-the-badge&logo=gmail&logoColor=00ff66&labelColor=000000" alt="Email" />
   </a>
 </p>
 
@@ -53,46 +55,46 @@
 # [01] FRONTEND & INTERACTIVE UI
 ```
 <p align="left">
-  <img src="https://img.shields.io/badge/Next.js_16-020b05?style=for-the-badge&logo=nextdotjs&logoColor=00ff66" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React_19-020b05?style=for-the-badge&logo=react&logoColor=00ff66" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-020b05?style=for-the-badge&logo=typescript&logoColor=00ff66" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS_v4-020b05?style=for-the-badge&logo=tailwindcss&logoColor=00ff66" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Framer_Motion-020b05?style=for-the-badge&logo=framer&logoColor=00ff66" alt="Framer Motion" />
-  <img src="https://img.shields.io/badge/HTML5-020b05?style=for-the-badge&logo=html5&logoColor=00ff66" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-020b05?style=for-the-badge&logo=css3&logoColor=00ff66" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&logo=nextdotjs&logoColor=00ff66" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React_19-000000?style=for-the-badge&logo=react&logoColor=00ff66" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00ff66" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS_v4-000000?style=for-the-badge&logo=tailwindcss&logoColor=00ff66" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Framer_Motion-000000?style=for-the-badge&logo=framer&logoColor=00ff66" alt="Framer Motion" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00ff66" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00ff66" alt="CSS3" />
 </p>
 
 ```bash
 # [02] BACKEND, MOBILE & LANGUAGES
 ```
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-020b05?style=for-the-badge&logo=python&logoColor=00ff66" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-020b05?style=for-the-badge&logo=openjdk&logoColor=00ff66" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-020b05?style=for-the-badge&logo=springboot&logoColor=00ff66" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Node.js-020b05?style=for-the-badge&logo=nodedotjs&logoColor=00ff66" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Flutter-020b05?style=for-the-badge&logo=flutter&logoColor=00ff66" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-020b05?style=for-the-badge&logo=dart&logoColor=00ff66" alt="Dart" />
-  <img src="https://img.shields.io/badge/Kotlin-020b05?style=for-the-badge&logo=kotlin&logoColor=00ff66" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff66" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=00ff66" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=springboot&logoColor=00ff66" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=00ff66" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=00ff66" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=00ff66" alt="Dart" />
+  <img src="https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=00ff66" alt="Kotlin" />
 </p>
 
 ```bash
 # [03] CYBER DEFENSE, NETWORK RECON & LABS
 ```
 <p align="left">
-  <img src="https://img.shields.io/badge/Wireshark-020b05?style=for-the-badge&logo=wireshark&logoColor=00ff66" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Nmap_Recon-020b05?style=for-the-badge&logo=linux&logoColor=00ff66" alt="Nmap" />
-  <img src="https://img.shields.io/badge/Linux_Kernel-020b05?style=for-the-badge&logo=linux&logoColor=00ff66" alt="Linux" />
-  <img src="https://img.shields.io/badge/Vulnerability_Audit-020b05?style=for-the-badge&logo=hackthebox&logoColor=00ff66" alt="Security" />
+  <img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=00ff66" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Nmap_Recon-000000?style=for-the-badge&logo=linux&logoColor=00ff66" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Linux_Kernel-000000?style=for-the-badge&logo=linux&logoColor=00ff66" alt="Linux" />
+  <img src="https://img.shields.io/badge/Vulnerability_Audit-000000?style=for-the-badge&logo=hackthebox&logoColor=00ff66" alt="Security" />
 </p>
 
 ```bash
 # [04] ARTIFICIAL INTELLIGENCE & LLM ORCHESTRATION
 ```
 <p align="left">
-  <img src="https://img.shields.io/badge/Ollama_Local_LLM-020b05?style=for-the-badge&logo=ollama&logoColor=00ff66" alt="Ollama" />
-  <img src="https://img.shields.io/badge/Tool_Calling_Agents-020b05?style=for-the-badge&logo=openai&logoColor=00ff66" alt="Tool Calling" />
-  <img src="https://img.shields.io/badge/RAG_Pipelines-020b05?style=for-the-badge&logo=openai&logoColor=00ff66" alt="RAG" />
-  <img src="https://img.shields.io/badge/Computer_Vision_OCR-020b05?style=for-the-badge&logo=opencv&logoColor=00ff66" alt="OCR Vision" />
+  <img src="https://img.shields.io/badge/Ollama_Local_LLM-000000?style=for-the-badge&logo=ollama&logoColor=00ff66" alt="Ollama" />
+  <img src="https://img.shields.io/badge/Tool_Calling_Agents-000000?style=for-the-badge&logo=openai&logoColor=00ff66" alt="Tool Calling" />
+  <img src="https://img.shields.io/badge/RAG_Pipelines-000000?style=for-the-badge&logo=openai&logoColor=00ff66" alt="RAG" />
+  <img src="https://img.shields.io/badge/Computer_Vision_OCR-000000?style=for-the-badge&logo=opencv&logoColor=00ff66" alt="OCR Vision" />
 </p>
 
 ---
@@ -113,21 +115,21 @@
 ### 📊 Mainframe Telemetry & Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=HornVanhong&show_icons=true&bg_color=020b05&border_color=00ff66&title_color=00ff66&icon_color=00ff66&text_color=86efac" alt="Horn Vanhong GitHub Stats" height="165" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=HornVanhong&layout=compact&bg_color=020b05&border_color=00ff66&title_color=00ff66&text_color=86efac" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=HornVanhong&show_icons=true&bg_color=000000&border_color=00ff66&title_color=00ff66&icon_color=00ff66&text_color=86efac" alt="Horn Vanhong GitHub Stats" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=HornVanhong&layout=compact&bg_color=000000&border_color=00ff66&title_color=00ff66&text_color=86efac" alt="Top Languages" height="165" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HornVanhong&background=020b05&border=00ff66&ring=00ff66&fire=00ff66&currStreakLabel=00ff66&currStreakNum=00ff66&sideNums=00ff66&sideLabels=86efac&dates=4ade80" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HornVanhong&background=000000&border=00ff66&ring=00ff66&fire=00ff66&currStreakLabel=00ff66&currStreakNum=00ff66&sideNums=00ff66&sideLabels=86efac&dates=4ade80" alt="GitHub Streak" />
 </div>
 
 <br />
 
-<!-- ═══════════════════ MATRIX FOOTER WAVE ═══════════════════ -->
+<!-- ═══════════════════ DEEP MATRIX FOOTER ═══════════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff66,25:059669,60:064e3b,100:020b05&height=100&section=footer" width="100%" alt="Matrix Footer Wave" />
-  <br />
-  <code>> SYSTEM INTEGRITY: 100% // ALL THREADS SECURED // © 2026 HORN VANHONG</code>
+  <code>╔════════════════════════════════════════════════════════════════════════════════════════╗</code><br />
+  <code>║ SYSTEM INTEGRITY: 100% // ALL THREADS SECURED // ZERO-TRUST ARMED // © 2026 HORN VANHONG ║</code><br />
+  <code>╚════════════════════════════════════════════════════════════════════════════════════════╝</code>
 </div>
