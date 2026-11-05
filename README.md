@@ -78,16 +78,34 @@
 
 ---
 
-### 🛰️ Flagship Deployments & Ops
+### 🛰️ Flagship Deployments & Repositories
 
-| Mission / Project | Tech Stack | Briefing | Status & Coordinates |
-|:---|:---|:---|:---:|
-| **Terminal HUD Portfolio** | `Next.js 16` `React 19` `Tailwind v4` | High-performance developer portfolio with cyber HUD theme, scanlines, and glassmorphic UI. | [🌐 Live Demo](https://vanhong-dev.vercel.app) • [💻 Code](https://github.com/HornVanhong/vanhong_dev_portfolio) |
-| **Smart Attendance Scanner** | `TypeScript` `OCR` `Computer Vision` | AI-assisted digitization suite transforming physical attendance rosters into structured records. | [💻 Code](https://github.com/HornVanhong/smart-attendance-scanner) |
-| **Smart CV Builder** | `React 19` `Next.js` `React-PDF` | Programmatic ATS resume engine with real-time editing and pixel-perfect PDF export. | [💻 Code](https://github.com/HornVanhong/SmartCV) |
-| **LLM Tool Calling Framework** | `Python` `Ollama` `Function Calling` | Autonomous local LLM agent execution pipeline calling system tools without cloud dependencies. | [💻 Code](https://github.com/HornVanhong/LLM_ToolCalling) |
-| **CyberLab Security Suite** | `TypeScript` `Linux` `Security Tools` | Interactive security lab for traffic packet inspection, port auditing, and network telemetry. | [💻 Code](https://github.com/HornVanhong/CyberLab) |
-| **AudioScribe Speech Engine** | `Next.js` `TypeScript` `Web Audio` | High-efficiency speech-to-text dictation and transcription utility. | [💻 Code](https://github.com/HornVanhong/AudioScribe) |
+<div align="center">
+  <a href="https://github.com/HornVanhong/vanhong_dev_portfolio">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=HornVanhong&repo=vanhong_dev_portfolio&bg_color=000000&border_color=00ff66&title_color=00ff66&icon_color=00ff66&text_color=86efac" alt="vanhong_dev_portfolio" />
+  </a>
+  <a href="https://github.com/HornVanhong/smart-attendance-scanner">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=HornVanhong&repo=smart-attendance-scanner&bg_color=000000&border_color=00ff66&title_color=00ff66&icon_color=00ff66&text_color=86efac" alt="smart-attendance-scanner" />
+  </a>
+</div>
+<br />
+<div align="center">
+  <a href="https://github.com/HornVanhong/SmartCV">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=HornVanhong&repo=SmartCV&bg_color=000000&border_color=00ff66&title_color=00ff66&icon_color=00ff66&text_color=86efac" alt="SmartCV" />
+  </a>
+  <a href="https://github.com/HornVanhong/LLM_ToolCalling">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=HornVanhong&repo=LLM_ToolCalling&bg_color=000000&border_color=00ff66&title_color=00ff66&icon_color=00ff66&text_color=86efac" alt="LLM_ToolCalling" />
+  </a>
+</div>
+<br />
+<div align="center">
+  <a href="https://github.com/HornVanhong/CyberLab">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=HornVanhong&repo=CyberLab&bg_color=000000&border_color=00ff66&title_color=00ff66&icon_color=00ff66&text_color=86efac" alt="CyberLab" />
+  </a>
+  <a href="https://github.com/HornVanhong/AudioScribe">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=HornVanhong&repo=AudioScribe&bg_color=000000&border_color=00ff66&title_color=00ff66&icon_color=00ff66&text_color=86efac" alt="AudioScribe" />
+  </a>
+</div>
 
 ---
 
