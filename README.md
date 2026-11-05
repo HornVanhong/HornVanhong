@@ -32,20 +32,10 @@
 
 ---
 
-### 🖥️ `root@vanhong-cyber:~# ./system_diagnostics.sh`
-
-```text
-╔════════════════════════════════════════════════════════════════════════════════╗
-║  VANHONG-SYS // MAINFRAME HUD [SECURITY PROTOCOL: ACTIVE]                      ║
-╠════════════════════════════════════════════════════════════════════════════════╣
-║  [01] OPERATOR     : Horn Vanhong (Full-Stack Engineer & Cyber Specialist)     ║
-║  [02] COORDINATES  : Phnom Penh, Cambodia [11.5564° N, 104.9282° E]            ║
-║  [03] CORE FOCUS   : Next.js 16 • React 19 • Network Forensics • AI Agents     ║
-║  [04] ENCRYPTION   : SHA-512 Hash Verified • Zero Trust Architecture          ║
-║  [05] SYSTEM LOAD  : OPTIMAL [UPTIME: 99.98%]                                  ║
-║  [06] STATUS       : READY FOR RECON & HIGH-IMPACT COLLABORATION               ║
-╚════════════════════════════════════════════════════════════════════════════════╝
-```
+<!-- ═══════════════════ REAL CYBER TERMINAL WINDOW ═══════════════════ -->
+<div align="center">
+  <img src="assets/terminal.svg" width="100%" alt="Root Cyber Terminal Diagnostics" />
+</div>
 
 ---
 
