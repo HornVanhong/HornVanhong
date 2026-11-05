@@ -41,50 +41,27 @@
 
 ### ⚡ Technical Arsenal & Tooling
 
-```bash
-# [01] FRONTEND & INTERACTIVE UI
-```
+#### 🌐 Frontend Architecture
 <p align="left">
-  <img src="https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&logo=nextdotjs&logoColor=00ff66" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React_19-000000?style=for-the-badge&logo=react&logoColor=00ff66" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00ff66" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS_v4-000000?style=for-the-badge&logo=tailwindcss&logoColor=00ff66" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Framer_Motion-000000?style=for-the-badge&logo=framer&logoColor=00ff66" alt="Framer Motion" />
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00ff66" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00ff66" alt="CSS3" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,html,css&theme=dark" alt="Frontend Technologies" />
 </p>
 
-```bash
-# [02] BACKEND, MOBILE & LANGUAGES
-```
+#### ⚙️ Backend, Mobile & Languages
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff66" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=00ff66" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=springboot&logoColor=00ff66" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=00ff66" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=00ff66" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=00ff66" alt="Dart" />
-  <img src="https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=00ff66" alt="Kotlin" />
+  <img src="https://skillicons.dev/icons?i=py,java,spring,nodejs,flutter,dart,kotlin&theme=dark" alt="Backend & Mobile Technologies" />
 </p>
 
-```bash
-# [03] CYBER DEFENSE, NETWORK RECON & LABS
-```
+#### 🛡️ Cybersecurity, Systems & Tooling
 <p align="left">
-  <img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=00ff66" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Nmap_Recon-000000?style=for-the-badge&logo=linux&logoColor=00ff66" alt="Nmap" />
-  <img src="https://img.shields.io/badge/Linux_Kernel-000000?style=for-the-badge&logo=linux&logoColor=00ff66" alt="Linux" />
-  <img src="https://img.shields.io/badge/Vulnerability_Audit-000000?style=for-the-badge&logo=hackthebox&logoColor=00ff66" alt="Security" />
+  <img src="https://skillicons.dev/icons?i=linux,kali,bash,git,github,vscode,postman&theme=dark" alt="Security & DevOps Technologies" />
 </p>
 
-```bash
-# [04] ARTIFICIAL INTELLIGENCE & LLM ORCHESTRATION
-```
+#### 🤖 AI Engineering & LLM Automation
 <p align="left">
-  <img src="https://img.shields.io/badge/Ollama_Local_LLM-000000?style=for-the-badge&logo=ollama&logoColor=00ff66" alt="Ollama" />
-  <img src="https://img.shields.io/badge/Tool_Calling_Agents-000000?style=for-the-badge&logo=openai&logoColor=00ff66" alt="Tool Calling" />
-  <img src="https://img.shields.io/badge/RAG_Pipelines-000000?style=for-the-badge&logo=openai&logoColor=00ff66" alt="RAG" />
-  <img src="https://img.shields.io/badge/Computer_Vision_OCR-000000?style=for-the-badge&logo=opencv&logoColor=00ff66" alt="OCR Vision" />
+  <img src="https://img.shields.io/badge/Ollama-Local_LLMs-000000?style=flat-square&logo=ollama&logoColor=00ff66" alt="Ollama" />
+  <img src="https://img.shields.io/badge/Tool_Calling-Autonomous_Agents-000000?style=flat-square&logo=openai&logoColor=00ff66" alt="Tool Calling" />
+  <img src="https://img.shields.io/badge/RAG-Vector_Pipelines-000000?style=flat-square&logo=openai&logoColor=00ff66" alt="RAG" />
+  <img src="https://img.shields.io/badge/Computer_Vision-OCR_Recognition-000000?style=flat-square&logo=opencv&logoColor=00ff66" alt="Computer Vision" />
 </p>
 
 ---
