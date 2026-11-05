@@ -7,7 +7,7 @@
 
 <!-- ═══════════════════ ANIMATED MATRIX TERMINAL ═══════════════════ -->
 <a href="https://vanhong-dev.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1100&color=00FF66&center=true&vCenter=true&multiline=false&width=650&height=50&lines=%3E+%5BROOT%40KALI-VANHONG%5D%3A~%23+SYSTEM_BOOT+ONLINE;%3E+Horn+Vanhong+%7C%7C+Full-Stack+%26+Cybersecurity;%3E+Next.js+16+%E2%80%A2+React+19+%E2%80%A2+TypeScript;%3E+Network+Forensics+%E2%80%A2+Nmap+%E2%80%A2+Wireshark;%3E+Autonomous+AI+Agents+%E2%80%A2+Local+LLMs;%3E+STATUS%3A+DEFENSE_ACTIVE+%5BSECURE%5D" alt="Animated Matrix Terminal" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1100&color=00FF66&center=true&vCenter=true&multiline=false&width=650&height=50&lines=%3E+%5BROOT%40KALI-VANHONG%5D%3A~%23+SYSTEM_BOOT+ONLINE;%3E+Horn+Vanhong+%7C%7C+Full-Stack+%26+Pentesting;%3E+Next.js+16+%E2%80%A2+React+19+%E2%80%A2+TypeScript;%3E+Burp+Suite+%E2%80%A2+Metasploit+%E2%80%A2+Nmap+%E2%80%A2+Wireshark;%3E+Autonomous+AI+Agents+%E2%80%A2+Local+LLMs;%3E+STATUS%3A+DEFENSE_ACTIVE+%5BSECURE%5D" alt="Animated Matrix Terminal" />
 </a>
 
 <br />
@@ -41,6 +41,18 @@
 
 ### ⚡ Technical Arsenal & Tooling
 
+#### 🛡️ Penetration Testing & Offensive Security Toolkit
+<p align="left">
+  <img src="https://img.shields.io/badge/Burp_Suite-Web_Security-000000?style=flat-square&logo=portswigger&logoColor=00ff66" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Metasploit-Exploitation-000000?style=flat-square&logo=metasploit&logoColor=00ff66" alt="Metasploit" />
+  <img src="https://img.shields.io/badge/Nmap-Network_Recon-000000?style=flat-square&logo=linux&logoColor=00ff66" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Wireshark-Packet_Forensics-000000?style=flat-square&logo=wireshark&logoColor=00ff66" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/OWASP_ZAP-App_Scan-000000?style=flat-square&logo=owasp&logoColor=00ff66" alt="OWASP ZAP" />
+  <img src="https://img.shields.io/badge/SQLmap-DB_Injection-000000?style=flat-square&logo=hackthebox&logoColor=00ff66" alt="SQLmap" />
+  <img src="https://img.shields.io/badge/Hydra_/_John-Credential_Audit-000000?style=flat-square&logo=gnubash&logoColor=00ff66" alt="Hydra" />
+  <img src="https://img.shields.io/badge/Kali_Linux-Security_OS-000000?style=flat-square&logo=kalilinux&logoColor=00ff66" alt="Kali Linux" />
+</p>
+
 #### 🌐 Frontend Architecture
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,html,css&theme=dark" alt="Frontend Technologies" />
@@ -51,9 +63,9 @@
   <img src="https://skillicons.dev/icons?i=py,java,spring,nodejs,flutter,dart,kotlin&theme=dark" alt="Backend & Mobile Technologies" />
 </p>
 
-#### 🛡️ Cybersecurity, Systems & Tooling
+#### 🧰 Systems, DevOps & Environments
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,kali,bash,git,github,vscode,postman&theme=dark" alt="Security & DevOps Technologies" />
+  <img src="https://skillicons.dev/icons?i=linux,kali,bash,git,github,vscode,postman&theme=dark" alt="DevOps Technologies" />
 </p>
 
 #### 🤖 AI Engineering & LLM Automation

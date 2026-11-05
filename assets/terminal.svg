@@ -8,12 +8,12 @@
   <circle cx="22" cy="17" r="4.5" fill="#ff5f56"/>
   <circle cx="38" cy="17" r="4.5" fill="#ffbd2e"/>
   <circle cx="54" cy="17" r="4.5" fill="#27c93f"/>
-  <text x="425" y="21" fill="#86efac" font-family="'Courier New', Courier, monospace" font-size="12" font-weight="bold" text-anchor="middle">root@vanhong-cyber: ~/system_diagnostics (zsh)</text>
+  <text x="425" y="21" fill="#86efac" font-family="'Courier New', Courier, monospace" font-size="12" font-weight="bold" text-anchor="middle">root@vanhong-cyber: ~/pentest_diagnostics (zsh)</text>
 
   <!-- Terminal Content Body -->
   <text font-family="'Courier New', Courier, monospace" font-size="13" xml:space="preserve">
     <!-- Line 1: Command Executed -->
-    <tspan x="24" y="64"><tspan fill="#00ff66" font-weight="bold">root@vanhong-cyber</tspan><tspan fill="#ffffff">:</tspan><tspan fill="#38bdf8">~</tspan><tspan fill="#ffffff"># </tspan><tspan fill="#f8fafc">./system_diagnostics.sh --full</tspan></tspan>
+    <tspan x="24" y="64"><tspan fill="#00ff66" font-weight="bold">root@vanhong-cyber</tspan><tspan fill="#ffffff">:</tspan><tspan fill="#38bdf8">~</tspan><tspan fill="#ffffff"># </tspan><tspan fill="#f8fafc">./system_diagnostics.sh --pentest</tspan></tspan>
 
     <!-- Line 2: Mainframe Header -->
     <tspan x="24" y="90" fill="#00ff66">[+] INITIALIZING VANHONG-SYS v4.2 [SECURITY PROTOCOL: ACTIVE]</tspan>
@@ -24,16 +24,16 @@
     <tspan x="24" y="156"><tspan fill="#00ff66">[02] COORDINATES : </tspan><tspan fill="#38bdf8">Phnom Penh, Cambodia 🇰🇭</tspan> <tspan fill="#64748b">[11.5564° N, 104.9282° E]</tspan></tspan>
     <tspan x="24" y="178"><tspan fill="#00ff66">[03] CORE STACK  : </tspan><tspan fill="#4ade80">Next.js 16 • React 19 • TypeScript • Tailwind CSS v4</tspan></tspan>
     <tspan x="24" y="200"><tspan fill="#00ff66">[04] BACKEND/AI  : </tspan><tspan fill="#38bdf8">Python (Ollama/RAG) • Java (Spring Boot) • Flutter/Dart</tspan></tspan>
-    <tspan x="24" y="222"><tspan fill="#00ff66">[05] DEFENSE     : </tspan><tspan fill="#facc15">Network Forensics • Wireshark • Nmap • Linux Hardening</tspan></tspan>
+    <tspan x="24" y="222"><tspan fill="#00ff66">[05] PENTEST/OPS : </tspan><tspan fill="#facc15">Burp Suite • Metasploit • Nmap • Wireshark • OWASP ZAP</tspan></tspan>
     <tspan x="24" y="244"><tspan fill="#00ff66">[06] ENCRYPTION  : </tspan><tspan fill="#a855f7">SHA-512 Hash Verified • Zero-Trust Architecture Enabled</tspan></tspan>
-    <tspan x="24" y="266"><tspan fill="#00ff66">[07] SYSTEM LOAD : </tspan><tspan fill="#22c55e" font-weight="bold">OPTIMAL // UPTIME: 99.98% // ALL THREADS SECURED</tspan></tspan>
+    <tspan x="24" y="266"><tspan fill="#00ff66">[07] SYSTEM LOAD : </tspan><tspan fill="#22c55e" font-weight="bold">OPTIMAL // UPTIME: 99.98% // ZERO VULNERABILITIES</tspan></tspan>
 
     <!-- Line 10: Active Root Prompt -->
-    <tspan x="24" y="300"><tspan fill="#00ff66" font-weight="bold">root@vanhong-cyber</tspan><tspan fill="#ffffff">:</tspan><tspan fill="#38bdf8">~</tspan><tspan fill="#ffffff"># </tspan><tspan fill="#f8fafc">awaiting_connection...</tspan></tspan>
+    <tspan x="24" y="300"><tspan fill="#00ff66" font-weight="bold">root@vanhong-cyber</tspan><tspan fill="#ffffff">:</tspan><tspan fill="#38bdf8">~</tspan><tspan fill="#ffffff"># </tspan><tspan fill="#f8fafc">awaiting_target...</tspan></tspan>
   </text>
 
   <!-- Animated Blinking Terminal Cursor -->
-  <rect x="362" y="288" width="8.5" height="15" fill="#00ff66">
+  <rect x="335" y="288" width="8.5" height="15" fill="#00ff66">
     <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
   </rect>
 </svg>
